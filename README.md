@@ -1,9 +1,9 @@
 # RapidResQ - AI Emergency Response Optimizer
 
-RapidResQ is a comprehensive digital ecosystem designed to minimize ambulance response times. By integrating Ambulance Drivers, Traffic Control Centers, and Hospitals into a single real-time network, the system ensures faster transport and better resource allocation.
+RapidResQ is a comprehensive digital ecosystem designed to minimise ambulance response times. By integrating Ambulance Drivers, Traffic Control Centers, and Hospitals into a single real-time network, the system ensures faster transport and better resource allocation.
 
 **Key Features:**
-*   🚑 **Smart Ambulance Dashboard:** AI-driven route optimization, multi-patient management, and one-click "Green Corridor" requests.
+*   🚑 **Smart Ambulance Dashboard:** AI-driven route optimisation, multi-patient management, and one-click "Green Corridor" requests.
 *   🚦 **Traffic Control Admin:** Live map tracking of active units and remote traffic signal control to clear paths.
 *   🏥 **Hospital Gateway:** Real-time visibility of ICU/Ventilator availability and incoming patient alerts.
 *   ⚡ **Real-Time Sync:** Instant data handshake between all three portals for seamless coordination.
